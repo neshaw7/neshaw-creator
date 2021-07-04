@@ -1,2 +1,3 @@
 # neshaw-creator
-b2k-character convertido com custcene nativa para VRP 1.0
+
+Criação de personagem para VRP 1.0 com Custcene nativa do GTAV, usando de base B2K-character.
